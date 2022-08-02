@@ -74,7 +74,7 @@ class Chatbot extends JFrame {
 					}
 
 					else if (text.contains("bye")) {
-						bot("So soon ? AnyWays" + "\n" + "BYE");
+						bot("So soon ? Anyways" + "\n" + "Bye");
 					} else {
 						int rand = (int) (Math.random() * 3 + 1);
 						if (rand == 1) {

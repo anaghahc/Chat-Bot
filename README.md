@@ -1,1 +1,1 @@
-A basic java chat bot using jquery
+A basic java chat bot using jframe.
